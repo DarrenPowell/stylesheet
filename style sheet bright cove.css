@@ -1,3 +1,2 @@
-.video-js .vjs-play-progress {
-  background-color: green;
-}
+.vjs-progress-control.vjs-control {
+    background-color: green;
